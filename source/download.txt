@@ -39,36 +39,34 @@ Software Requirements
        name: macOS
        content: |
 
-         |compass-short| requires the 64-bit version of macOS 10.10 or
+         |compass| requires the 64-bit version of macOS 10.10 or
          later and MongoDB 3.0 or later.
 
      - id: windows
        name: Windows
        content: |
 
-         |compass-short| requires the 64-bit version of Microsoft
-         Windows 7 or later and MongoDB 3.0 or later.
+         |compass| requires the 64-bit version of Microsoft
+         Windows 7 or later and MongoDB 3.0 or later. 
 
-         .. note::
-
-            The Windows installation of |compass| requires
-            `Microsoft .NET Framework version 4.5 or later <https://www.microsoft.com/en-us/download/details.aspx?id=30653>`__.
-            The |compass-short| installer prompts you to install the 
-            minimum required version of the .NET framework if it is 
-            not already installed on your system.
+        The Windows installation of |compass-short| requires
+        `Microsoft .NET Framework version 4.5 or later <https://www.microsoft.com/en-us/download/details.aspx?id=30653>`__.
+        The |compass-short| installer prompts you to install the 
+        minimum required version of the .NET framework if it is            
+        not already installed on your system.
 
      - id: ubuntu
        name: Ubuntu
        content: |
 
-         |compass-short| requires the 64-bit version of Ubuntu 14.04 or
+         |compass| requires the 64-bit version of Ubuntu 14.04 or
          later and MongoDB 3.0 or later.
 
      - id: rhel
        name: RHEL
        content: |
 
-         |compass-short| requires the 64-bit version of RHEL 7+ or
+         |compass| requires the 64-bit version of RHEL 7+ or
          later and MongoDB 3.0 or later.
 
 .. _macOS Terminal: https://support.apple.com/guide/terminal/welcome/mac
